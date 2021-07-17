@@ -1,9 +1,6 @@
 # Animated-Navbar-
 Best Animated Navbar for Website
 
-## Youtube Video 
-https://www.youtube.com/watch?v=bpJXEpoWK8M
+## Look
 
-## UI
-
-![Screenshot 2021-07-17 at 2 27 47 PM](https://user-images.githubusercontent.com/20369800/126031979-f5e0be8b-ceba-40e5-b8ba-1d3fe97d1a3c.png)
+![ezgif-6-98f0ac3be140](https://user-images.githubusercontent.com/20369800/126032121-9b5b25a9-ccc1-45ad-8c2f-fc3ac5dc0b91.gif)
